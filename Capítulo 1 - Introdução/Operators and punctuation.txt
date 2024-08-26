@@ -1,0 +1,11 @@
+https://go.dev/ref/spec#Keywords
+
+Operators and punctuation
+The following character sequences represent operators (including assignment operators) and punctuation [Go 1.18]:
+
++    &     +=    &=     &&    ==    !=    (    )
+-    |     -=    |=     ||    <     <=    [    ]
+*    ^     *=    ^=     <-    >     >=    {    }
+/    <<    /=    <<=    ++    =     :=    ,    ;
+%    >>    %=    >>=    --    !     ...   .    :
+     &^          &^=          ~
